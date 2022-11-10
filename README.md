@@ -4,6 +4,9 @@ This Microsoft teams clone app was created using the React Js libraries and Chat
 Image handling, message avatars, react hooks, sockets and chatengine-io specific functions were 
 learnt during the process. 
 
+![alt text](https://github.com/iluvpomeranians/Chat_Application_React_with_Firebase/blob/main/src/images/image%20(19).png)
+
+
 We later deployed the app to Netlify here: https://chat-app-pomeranian.netlify.app/. 
 You can login and test using:
 Usr: Lindbot909
